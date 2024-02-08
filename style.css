@@ -8,7 +8,7 @@ body {
     margin: 0;
     background-color: #b8c6dd;
     background: rgb(34,193,195);
-background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,109,253,1) 100%);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,109,253,1) 100%);
     font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: center;
@@ -21,7 +21,7 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,109,253,1) 100%
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 15px 2px rgba(0, 0 , 0, 0.3);
-    border: 1px solid lightblue;
+    border: 1px solid rgb(129, 215, 243);
     width: 600px;
     overflow: hidden;
 }
@@ -64,7 +64,7 @@ button {
 }
 
 button:hover {
-    background-color: deepskyblue;
+    background-color: rgb(255, 98, 0);
 }
 
 button:focus {
